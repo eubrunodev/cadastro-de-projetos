@@ -19,7 +19,7 @@ struct projetoDados cadProjetos[LIMITE];
 int aux, cont, i, tAfazer, tFazendo, tConcluido;
 
 void menu(){ 
-	printf("\n\tBEM-VINDO(A) AO SISTEMA DE CADASTRO E VISUALIZA��O DE PROJETOS.");
+	printf("\n\tBEM-VINDO(A) AO SISTEMA DE CADASTRO E VISUALIZAÇÃOO DE PROJETOS.");
 	printf("\n\n\t\t-- MENU DE OPÇÕES --\n");
 	printf("\n	[1] - Cadastrar Projeto - %d/%d", cont, LIMITE);
 	printf("\n	[2] - Listar todos os projetos.");
@@ -76,11 +76,11 @@ void cadastroProjetos(){ // cadastro de projetos com limite definido em uma cons
 			printf("\n#                                #");
 			printf("\n##################################\n");
 			
-			printf("\nInforme o T�TULO do projeto:\nR: ");
+			printf("\nInforme o TÍTULO do projeto:\nR: ");
 			fflush(stdin);
 			gets(cadProjetos[i].titulo);
 
-			printf("\nInforme a DESCRI��O do projeto:\nR: ");
+			printf("\nInforme a DESCRIÇÃO do projeto:\nR: ");
 			fflush(stdin);
 			gets(cadProjetos[i].desc);
 					
@@ -100,7 +100,7 @@ void cadastroProjetos(){ // cadastro de projetos com limite definido em uma cons
 			fflush(stdin);
 			gets(cadProjetos[i].publico);
 
-			printf("\nInforme o STATUS do projeto\n\n[1] - A Fazer | [2] - Fazendo | [3] - Conclu�do:\nR: ");
+			printf("\nInforme o STATUS do projeto\n\n[1] - A Fazer | [2] - Fazendo | [3] - Concluído:\nR: ");
 			fflush(stdin);
 			scanf("%d", &cadProjetos[i].status);
 
