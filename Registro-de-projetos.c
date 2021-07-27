@@ -303,7 +303,7 @@ int main(){
 					buscarCodigo();
 			break;
 			case 0:
-					printf("\nFinalizando o programa.");
+					printf("\nFinalizando o programa!");
 			break;
 			default:
 					system("cls");
