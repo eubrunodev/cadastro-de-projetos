@@ -1,4 +1,4 @@
-# projetc-registration-system
+## Sistema de Cadastro de Projetos
 
 Sistema de cadastro de projetos feito em C.
 
