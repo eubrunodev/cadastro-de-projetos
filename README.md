@@ -1,5 +1,6 @@
 ## Sistema de Cadastro de Projetos
 
-Sistema de cadastro de projetos feito em C.
+#Funcionalidade:
+Menu com opções de Cadastro, Listagem de projetos e encerramento do sistema.
 
-Fiz esse sistema para uma atividade na minha graduação em Sistemas para Internet.
+Esse projeto foi feito para cadastrar projetos com um LIMITE pré-definido, e, fazer a listagem de todos os projetos, projetos buscados pelo Status e por código.
