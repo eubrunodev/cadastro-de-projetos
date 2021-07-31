@@ -7,4 +7,4 @@ Esse projeto foi feito para cadastrar projetos com um LIMITE pré-definido, e, f
 
 #Propósito
 
-Fiz esse sistema para uma atividade da minha graduação, ainda não obtive a nota, mas, espero que tenha dado tudo certo kkkk.
+Fiz esse sistema para uma atividade da minha graduação, ainda não obtive a nota, mas, espero que tenha ocorrido tudo certo kkkk.
